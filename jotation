@@ -1,14 +1,35 @@
 // Pre-reqs
+
   // you know how the song sounds
-    // jotation denotes chords, chord progressions, song structure, and lyrics
+    * jotation denotes chords, chord progressions, song structure, and lyrics
 
 
-// bars and line breaks indicate measure breaks
+// Rules
+
+  // bars and line breaks indicate measure breaks
   // chords are dot-separated
   // chord duration *roughly* matches its relation to the measure's other chords (if any)
-  // 
+  // ~ = repeat the previous chord
 
 F | F.A#
 It was in your basement apartment | with all of its earth and sea 
 A#.C.F.A#~ | A#.C.F~
-Making love on the carpet | under the light of the tv 
+Making love on the carpet | under the light of the tv
+
+  // same chord progression for each line
+
+FCGAm
+if you don't like dodge you can always go to abilene
+i hear the gettin's plenty and the grass is always green
+you can always head to kansas city where they pave all of their roads
+but the vices flow like the ohio and the governor's on parole
+
+  // repeat these lines [x times]
+
+C~G
+you put me in your suitcase
+[x4]
+
+
+// Proposals
+  // choruses can be defined by 'chorus {}' and invoked with 'chorus ()'
