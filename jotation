@@ -1,17 +1,14 @@
 // Pre-reqs
 
   // you know how the song sounds
-  
-// because
-  // jotation denotes only a suggested set of chords, chord progressions, and lyrics
-
+    // jotation denotes only a suggested set of chords, chord progressions, and lyrics
 
 // Rules
 
-  // bars and line breaks indicate measure breaks
+  // line breaks and bars indicate measure breaks
   // chords are dot-separated
   // chord duration *roughly* matches its relation to the measure's other chords (if any)
-  // ~ = repeat the previous chord
+    // ~ means repeat the previous chord
 
 F | F.A#
 It was in your basement apartment | with all of its earth and sea 
